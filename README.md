@@ -77,3 +77,6 @@ This is my Diploma Final Year Project, which I completed with two teams: one fro
 
 ## Support:
 For any questions or issues, please open an issue on GitHub or contact Haridas Khmabe at haridaskhambe2003@gmail.com
+
+## Related Images:
+![Project Overview](Outputs/admin_1.png)
