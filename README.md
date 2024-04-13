@@ -2,7 +2,7 @@
 # Fingerprint Sensor Based Biometric Attendance Management System
 
 ## Overview:
-Biometric Attendance systems are commonly used systems to mark presence in offices and schools. This project aims to create a reliable and secure attendance tracking system using a fingerprint sensor and NodeMCU. The system is designed for applications in schools, colleges, business organizations, and offices where accurate attendance marking with timestamps is crucial. With the help of this system schools/colleges can effectively reduce lot of paper work and efforts and thier time.
+This is my Diploma Final Year Project, which I completed with two teams: one from my Computer Department and another from the Electronics Department. This project provided me with valuable insight into the interaction between software and hardware. Overall, it was a rewarding experience that enhanced my understanding of how software interfaces with hardware. Biometric Attendance systems are commonly used systems to mark presence in offices and schools. This project aims to create a reliable and secure attendance tracking system using a fingerprint sensor, NodeMCU and Website for view & manage attendance. The system is designed for applications in schools, colleges, business organizations, and offices where accurate attendance marking with timestamps is crucial. With the help of this system schools/colleges can effectively reduce lot of paper work and efforts and thier time.
 
 ## Key Features:
 - Utilizes fingerprint sensor for user authentication, enhancing security.
