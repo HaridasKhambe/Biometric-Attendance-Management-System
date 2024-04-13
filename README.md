@@ -79,4 +79,18 @@ This is my Diploma Final Year Project, which I completed with two teams: one fro
 For any questions or issues, please open an issue on GitHub or contact Haridas Khmabe at haridaskhambe2003@gmail.com
 
 ## Related Images:
-![Project Overview](Outputs/admin_1.png)
+![Project Overview](Outputs/login_1.png)
+![Project Overview](Outputs/login_2_error.png)
+![Project Overview](Outputs/dashboard.png)
+![Project Overview](Outputs/att_class-1_1.png)
+![Project Overview](Outputs/manage-s-insert-s_1.png)
+![Project Overview](Outputs/manage-s-insert-s_2.png)
+![Project Overview](Outputs/manage-s_delete-s_1.png)
+![Project Overview](Outputs/report_3_excel_g.png)
+![Project Overview](Outputs/admin-change-pwd_1.png)
+![Project Overview](Outputs/db_login_table.png)
+![Project Overview](Outputs/db_present_table.png)
+![Project Overview](Outputs/db_student_table.png)
+
+
+
